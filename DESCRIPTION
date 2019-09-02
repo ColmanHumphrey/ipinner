@@ -1,0 +1,18 @@
+Package: ipinner
+Title: Functions for working with the ipinyou dataset
+Version: 0.0.1
+Authors@R: 
+    person(given = "Colman",
+           family = "Humphrey",
+           role = c("aut", "cre"),
+           email = "colmanhumphrey@gmail.com")
+Description: Provides functions for working with the ipinyou dataset,
+  including processing the raw data into a useable format
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    data.table
+Suggests: 
+    testthat (>= 2.1.0)
+RoxygenNote: 6.1.1
