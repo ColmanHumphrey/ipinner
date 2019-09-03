@@ -22,7 +22,7 @@
 
 ##------------------------------------
 
-data_folder <- "../../data/"
+data_folder <- "data/"
 
 input_folder <- paste0(data_folder, "ipinyou.contest.dataset/training2nd/")
 data_dates <- paste0("201306",
