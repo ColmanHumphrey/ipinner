@@ -1,6 +1,8 @@
 # ipinner
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/colmanhumphrey/ipinner.svg?branch=master)](https://travis-ci.org/colmanhumphrey/ipinner)
+[![Codecov test coverage](https://codecov.io/gh/colmanhumphrey/ipinner/branch/master/graph/badge.svg)](https://codecov.io/gh/colmanhumphrey/ipinner?branch=master)
 <!-- badges: end -->
 
 Functions for working with the ipinyou dataset
